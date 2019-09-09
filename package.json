@@ -1,0 +1,31 @@
+{
+  "name": "next-relic",
+  "version": "1.0.0",
+  "description": "nextjs with relic",
+  "main": "index.js",
+  "dependencies": {
+    "cross-env": "^5.2.1",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.0.5",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-markdown": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start -p %PORT%"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuong-ich-truong/next-relic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuong-ich-truong/next-relic/issues"
+  },
+  "homepage": "https://github.com/cuong-ich-truong/next-relic#readme"
+}
